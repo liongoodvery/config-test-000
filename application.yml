@@ -1,7 +1,10 @@
 spring:
   profiles:
     active: dev
-
+org:
+  lion:
+    info:
+      name: default-config
 ---
 spring:
   profiles: dev
